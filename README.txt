@@ -15,3 +15,4 @@ Domires
 Gustavo da Silva
 Kauan Fernando Hofstater
 João Vitor Migon Krug
+Kauan Mendonça
