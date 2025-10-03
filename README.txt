@@ -16,3 +16,4 @@ Gustavo da Silva
 Kauan Fernando Hofstater
 João Vitor Migon Krug
 Wesley Felipe Passini de Oliveira
+Kauan Mendonça
