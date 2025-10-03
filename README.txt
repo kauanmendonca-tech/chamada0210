@@ -10,3 +10,4 @@ Thiago Gusmão
 Alexandre Luiz Rosler
 Jose Guilherme Sutile
 Felix Filho
+Ana Carolina de Morais Benedetti
