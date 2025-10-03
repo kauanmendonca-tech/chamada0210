@@ -14,3 +14,4 @@ Ana Carolina de Morais Benedetti
 Domires
 Gustavo da Silva
 Kauan Fernando Hofstater
+João Vitor Migon Krug
