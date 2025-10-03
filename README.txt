@@ -17,3 +17,4 @@ Kauan Fernando Hofstater
 João Vitor Migon Krug
 Wesley Felipe Passini de Oliveira
 Kauan Mendonça
+Henzzo Frank da Silva Zamadei
